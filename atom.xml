@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://5rose.github.io</id>
     <title></title>
-    <updated>2021-08-24T07:27:43.014Z</updated>
+    <updated>2021-08-24T07:38:41.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://5rose.github.io"/>
     <link rel="self" href="http://5rose.github.io/atom.xml"/>
@@ -35,8 +35,21 @@
         <id>http://5rose.github.io/sway-qian-ru/</id>
         <link href="http://5rose.github.io/sway-qian-ru/">
         </link>
-        <updated>2021-08-24T08:27:25.000Z</updated>
-        <content type="html"><![CDATA[<iframe width="760px" height="500px" src="https://sway.office.com/s/WSClZqxWbAfP1wZQ/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>]]></content>
+        <updated>2021-08-24T11:27:25.000Z</updated>
+        <content type="html"><![CDATA[<iframe width="760px" height="500px" src="https://sway.office.com/s/WSClZqxWbAfP1wZQ/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
+、
+<iframe width="760px" height="500px" src="https://sway.office.com/s/KdEB9iGppeeiGAPX/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[视频嵌入代码]]></title>
+        <id>http://5rose.github.io/shi-pin-qian-ru-dai-ma/</id>
+        <link href="http://5rose.github.io/shi-pin-qian-ru-dai-ma/">
+        </link>
+        <updated>2021-08-24T08:35:03.000Z</updated>
+        <content type="html"><![CDATA[<video autoplay="autoplay" loop="loop" id="video" x-webkit-airplay="true" webkit-playsinline="true" muted="" controls="" height="480">
+   <source src="视频地址" type="video/mp4">
+</video>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第二次文字测试]]></title>
