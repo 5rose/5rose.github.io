@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://5rose.github.io</id>
+    <title>bbtt</title>
+    <updated>2021-08-24T05:30:03.888Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://5rose.github.io"/>
+    <link rel="self" href="http://5rose.github.io/atom.xml"/>
+    <subtitle>抱豹桃桃小分队</subtitle>
+    <logo>http://5rose.github.io/images/avatar.png</logo>
+    <icon>http://5rose.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, bbtt</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>http://5rose.github.io/31Hlaf4CZ/</id>
+        <link href="http://5rose.github.io/31Hlaf4CZ/">
+        </link>
+        <updated>2021-08-24T08:22:22.000Z</updated>
+        <content type="html"><![CDATA[<p>我们是和菊池风磨同天生日的抱豹桃桃小分队！我们什么都可以原谅💜でも無断転載/使用、許せない💢 *禁二传二改 Please do not reupload or reedit</p>
+]]></content>
+    </entry>
+</feed>
